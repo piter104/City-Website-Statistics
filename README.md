@@ -4,4 +4,4 @@ Analyze of data which shows the number of hits each page gets on the City of Blo
 
 I have also did some cleaning to properly analyze the data.
 
-Open it with Jupyter Notebook!  (Required: Pandas, Numpy, Scikit-learn, Seaborn, Pyplot)
+Open it on Jupyter Notebook!  (Required: Pandas, Numpy, Scikit-learn, Seaborn, Pyplot)
